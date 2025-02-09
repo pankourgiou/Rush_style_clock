@@ -1,0 +1,1 @@
+This is a Rush the band style clock the represantation of time is not tatally exact as in the clockwork angels album but still I thought I should give it a shot. Let's put the fun back into computing!
